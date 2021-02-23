@@ -1,0 +1,14 @@
+body
+{
+    font-family: 'faregular', 'Akaya Telivigala', cursive;
+    font-size :5em;
+    color: blue;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+@font-face 
+{
+    font-family: 'faregular';
+    src: url('fa-regular-400.woff') format('woff');
+}
