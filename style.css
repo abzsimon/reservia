@@ -3,4 +3,25 @@
 body
 {
     font-family: 'Raleway', sans-serif;
+    color: #0065FC;
+}
+
+header
+{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav a
+{
+    text-decoration: none;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 15px;
+}
+
+header nav a:hover
+{
+    border-top-style:solid;
 }
